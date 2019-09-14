@@ -1,0 +1,2 @@
+{ "type": "request", "seq": 0, "command": "open", "arguments": { "file": "index.ts" } }
+{ "type": "request", "seq": 1, "command": "quickinfo", "arguments": { "file": "index.ts", "line": 5, "offset": 8 } }

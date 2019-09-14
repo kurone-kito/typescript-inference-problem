@@ -1,0 +1,25 @@
+{
+  "name": "typescript-inference-problem",
+  "version": "0.1.0",
+  "description": "Demonstration a type inference problem in TSServer.",
+  "private": true,
+  "scripts": {
+    "start": "tsserver < commands.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurone-kito/typescript-inference-problem.git"
+  },
+  "keywords": [
+    "demonstration"
+  ],
+  "author": "kurone-kito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurone-kito/typescript-inference-problem/issues"
+  },
+  "homepage": "https://github.com/kurone-kito/typescript-inference-problem#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
