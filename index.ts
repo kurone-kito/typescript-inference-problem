@@ -1,5 +1,5 @@
 interface Params {
-  foo?: string;
+  foo: string | undefined;
 }
 
 export default (params: Params) => params.foo;

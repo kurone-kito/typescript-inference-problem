@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/kurone-kito/typescript-inference-problem#readme",
   "devDependencies": {
-    "typescript": "^3.6.3"
+    "typescript": "^3.7.0-dev.20190917"
   }
 }
